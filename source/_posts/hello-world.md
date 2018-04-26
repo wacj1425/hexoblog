@@ -3,6 +3,8 @@ title: 你好！这个世界
 ---
 欢迎使用 [Hexo](https://hexo.io/)! 这是你的第一篇博文. 你可以参考 [documentation](https://hexo.io/docs/) 来获得更多关于hexo的信息. 如果你在使用hexo的过程中有什么问题,你可以通过[troubleshooting](https://hexo.io/docs/troubleshooting.html)来找到答案 或者你可以在 [GitHub](https://github.com/hexojs/hexo/issues) 提交issues
 
+<!--more-->
+
 ## 快速开始
 
 ### 创建一篇博文

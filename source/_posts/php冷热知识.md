@@ -4,6 +4,10 @@ date: 2018-02-23 17:33:02
 tags: [php,学习,知识点]
 categories: php开发
 ---
+> 这里是一些php不太常用的知识
+
+<!--more-->
+
 ## call_user_func_array()
 ****
 > 调用回调函数，并把一个数组参数作为回调函数的参数
